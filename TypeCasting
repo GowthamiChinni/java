@@ -1,0 +1,21 @@
+public class Main {
+public static void main(String args[]){
+int myInt=5;
+double myDouble=myInt;
+System.out.println(myInt);
+System.out.println(myDouble);
+}
+}
+
+
+
+
+
+public class Main {
+public static void main(String args[]) {
+double myDouble=6.0;
+int myInt=(int) myDouble;
+System.out.println(myDouble);
+System.out.println(myInt);
+}
+}
