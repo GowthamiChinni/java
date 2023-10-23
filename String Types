@@ -1,0 +1,21 @@
+/*public class Main {
+public static void main(String args[]) {
+String txt = "Chinni is great";
+System.out.println("length of the String is:" +txt.length());
+System.out.println(txt.toUpperCase());
+System.out.println(txt.toLowerCase());
+System.out.println(txt.indexOf("great"));
+}
+}*/
+
+
+//Concatenation
+
+public class Main {
+public static void main(String args[]) {
+String FirstName = "Chinni ";
+String LastName = "Duppala";
+System.out.println(FirstName.concat(LastName));
+//System.out.println(FirstName+" "+LastName);
+}
+}
