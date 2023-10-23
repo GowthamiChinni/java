@@ -1,0 +1,59 @@
+// Conditional Statements in java
+/* if statement
+public class Main {
+public static void main(String args[]) {
+if(20>18)
+{
+System.out.println("20 is greater than 18");
+}
+}
+}*/
+
+
+
+/*else statement
+
+public class Main {
+public static void main(String args[]) {
+int time = 20;
+if(time>=18)
+{
+System.out.println("Good day");
+}
+else{
+System.out.println("Good Evening");
+}
+}
+}*/
+
+
+
+/* Else if
+public class Main {
+public static void main(String args[]) {
+int time = 20;
+if(time<=10)
+{
+System.out.println("Good Morning");
+}
+else if(time<=18) {
+System.out.println("Good Day");
+}
+else
+{
+System.out.println("Good Evening");
+}
+}
+}*/
+
+
+
+// Short hand or Ternary or Conditional
+public class Main {
+public static void main(String args[]) {
+int time = 20;
+String result = (time>=18)? "Good Morning" : "Good Evening";
+System.out.println(result);
+}
+}
+
