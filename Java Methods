@@ -1,0 +1,27 @@
+// Java Methods
+
+/*public class Main {
+static void myMethod() {
+System.out.println("I just got Executed");
+}
+
+public static void main(String args[]) {
+myMethod();
+ }
+}*/
+
+
+//method calls multiple times
+
+/*public class Main {
+static void myMethod() {
+System.out.println("I just got Executed");
+}
+
+public static void main(String args[]) {
+myMethod();
+myMethod();
+myMethod();
+myMethod();
+myMethod();
+ }
