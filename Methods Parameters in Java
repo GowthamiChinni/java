@@ -1,0 +1,30 @@
+// Java Methods and Parameters
+/*public class Main {
+static void myMethod(String fname) {
+System.out.println(fname + " Duppala");
+}
+
+public static void main(String args[]) {
+myMethod("chinni");
+myMethod("Satish");
+myMethod("Laxmi");
+myMethod("Kali");
+}
+}*/
+
+
+
+// Multiple Parameters
+/*public class Main {
+  static void myMethod(String fname , int age) {
+    System.out.println(fname+ " is " + age );
+  }
+
+  public static void main(String[] args) {
+   myMethod("chinni", 21);
+   myMethod("Satish",26);
+   myMethod("Laxmi",45);
+   myMethod("Kali",52);
+  }
+}*/
+
