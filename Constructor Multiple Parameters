@@ -1,0 +1,18 @@
+// Constructor Parameters
+
+public class Main {
+int ModelYear;
+String ModelName;
+
+public Main(int Year, String Name) {
+ModelYear=Year;
+ModelName=Name;
+}
+
+public static void main(String args[]) {
+Main myCar = new Main(1975,"volvo");
+System.out.println(myCar.ModelYear+" "+myCar.ModelName);
+}
+}
+
+
